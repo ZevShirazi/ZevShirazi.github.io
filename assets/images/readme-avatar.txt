@@ -1,0 +1,1 @@
+Replace this with your headshot at assets/images/bio-photo.jpg (JPEG/PNG).
